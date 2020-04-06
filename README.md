@@ -1,4 +1,4 @@
-# ieee-client
+# IEEE
 
 ## Project setup
 ```
