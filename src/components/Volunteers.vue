@@ -13,11 +13,11 @@
         </div>
         <div class="flex flex-col items-center justify-center">
           <img class="rounded-md shadow-md h-56 object-cover w-full" src="https://images.unsplash.com/photo-1544724107-6d5c4caaff30?ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80" alt="avatar">
-          <h2 class="text-xl font-semibold text-gray-800 mt-4">Jane Doe</h2>
+          <h2 class="text-xl font-semibold text-gray-800 mt-4">John Doe</h2>
         </div>
         <div class="flex flex-col items-center justify-center">
           <img class="rounded-md shadow-md h-56 object-cover w-full" src="https://images.unsplash.com/photo-1528763380143-65b3ac89a3ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=335&q=80" alt="avatar">
-          <h2 class="text-xl font-semibold text-gray-800 mt-4">Jane Doe</h2>
+          <h2 class="text-xl font-semibold text-gray-800 mt-4">Matt Sufer</h2>
         </div>
       </div>
     </div>
